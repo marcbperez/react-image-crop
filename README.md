@@ -14,7 +14,7 @@ yarn
 
 ## Usage
 
-Start the development server on `http://localhost:300` with `yarn start` or
+Start the development server on `http://localhost:3000` with `yarn start` or
 generate the production build with `yarn build`.
 
 ## Credits
